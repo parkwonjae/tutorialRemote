@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 
 <form>
-	<table border="1">
 	<tbody>
 		<tr>
 			<td>EMAIL</td><td><input type="email" placehodler="test@teset.com" /></td>
@@ -28,6 +27,7 @@
 		<tr>
 			<td>DIFFICULTY</td>
 			<td><input type="range" min="0" max="10"/></td>
+			
 		</tr>
 	</tbody>
 	</table>
